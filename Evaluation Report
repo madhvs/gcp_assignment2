@@ -1,0 +1,40 @@
+
+Your query : 
+I’ve completed the ‘Python Programming for Data Science’ course and enjoy data visualization. What should I take next?
+Recommended course for you : 
+['C014', 'C015', 'C017']
+['Data Visualization with Tableau', 'Business Intelligence with Power BI', 'R Programming and Statistical Analysis']
+********************
+
+
+Your query : 
+I know Azure basics and want to manage containers and build CI/CD pipelines. Recommend courses.
+Recommended course for you : 
+['C009', 'C008']
+['Containerization with Docker and Kubernetes', 'DevOps Practices and CI/CD']
+********************
+
+
+Your query : 
+My background is in ML fundamentals; I’d like to specialize in neural networks and production workflows.
+Recommended course for you : 
+['C002', 'C025']
+['Deep Learning with TensorFlow and Keras', 'MLOps: Productionizing Machine Learning']
+********************
+
+
+Your query : 
+I want to learn to build and deploy microservices with Kubernetes—what courses fit best?
+Recommended course for you : 
+['C009', 'C010', 'C007']
+['Containerization with Docker and Kubernetes', 'APIs and Microservices Architecture', 'Cloud Computing with Azure']
+********************
+
+
+Your query : 
+I’m interested in blockchain and smart contracts but have no prior experience. Which courses do you suggest?
+Recommended course for you : 
+['C023']
+['Blockchain Technology and Smart Contracts']
+********************
+
